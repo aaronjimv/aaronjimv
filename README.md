@@ -6,5 +6,3 @@
 I am a Systems Engineer with a passion for Python development and the application of Artificial Intelligence and Machine Learning technologies.
 
 I am always excited to learn new skills and explore new challenges in the field of software development. My goal is to become a professional developer who can create innovative and impactful solutions for real-world problems.
-
-Happy to connect with you👍
